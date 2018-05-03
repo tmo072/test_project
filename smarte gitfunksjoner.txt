@@ -6,3 +6,5 @@ git status
 
 # ny grein
 git checkout -b <ny grein>
+
+# Husk å ikke dytte til master når du har skifta grein!
